@@ -13,10 +13,10 @@ import matplotlib.pyplot as plt
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtWidgets import QLabel, QVBoxLayout, QWidget
 
-from Cat_Dlog import UiDialog
-from Rev_Dlog import UiDialogRev
-from Exp_Dlog import UiDialogExp
-from Trans_Dlog import UiDialogTrans
+from .Cat_Dlog import UiDialog
+from .Rev_Dlog import UiDialogRev
+from .Exp_Dlog import UiDialogExp
+from .Trans_Dlog import UiDialogTrans
 from new_gui.expense_report import Category
 
 

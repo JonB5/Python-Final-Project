@@ -2,6 +2,7 @@ import sys
 from PyQt5 import QtWidgets
 
 from new_gui.GUI_mainbox import UiMainWindow
+#from GUI_mainbox import UiMainWindow
 
 
 def main():
